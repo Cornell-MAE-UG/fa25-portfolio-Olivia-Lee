@@ -9,7 +9,7 @@ title: <Olivia Lee>
 
 
 
-![Profile Picture]({{ "assets/images/IMG_4179.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile_picture.JPG" | relative_url }}){: class="profile-image"}
 
 
  
