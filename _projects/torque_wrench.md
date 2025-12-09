@@ -1,8 +1,10 @@
 ---
+
 layout: project
 title: Materials project
 technologies: [MATLAB, ANSYS, Fusion]
 image: /assets/images/wrench_picture.png
+
 ---
 
 

@@ -1,8 +1,10 @@
 ---
+
 layout: project
 title: Satellite pointing
 technologies: [MATLAB]
 image: /assets/images/space.png
+
 ---
 
 
